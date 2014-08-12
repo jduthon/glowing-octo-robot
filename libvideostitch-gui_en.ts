@@ -5,7 +5,7 @@
     <name>BasicMpegCodec</name>
     <message>
         <location filename="../../libvideostitch-gui/centralwidget/formats/codecs/basicmpegcodec.cpp" line="28"/>
-        <source>Bitrate ModeTEST</source>
+        <source>Bitrate ModeGLOUBIBOULGA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
