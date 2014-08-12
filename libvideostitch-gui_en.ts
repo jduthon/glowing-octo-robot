@@ -55,7 +55,7 @@
     <name>GLRenderWidget</name>
     <message>
         <location filename="../../libvideostitch-gui/widgets/glrenderwidget.cpp" line="220"/>
-        <source>Projection %1 is invalid or not supported. Setting to Equirectangular.</source>
+        <source>Projection %1 is invalid or not supported.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
