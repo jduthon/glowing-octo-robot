@@ -4,7 +4,7 @@
     <message>
         <location filename="../../libvideostitch-gui/centralwidget/formats/codecs/basicmpegcodec.cpp" line="28"/>
         <source>Bitrate Mode</source>
-        <translation>test</translation>
+        <translation>test salut</translation>
     </message>
     <message>
         <location filename="../../libvideostitch-gui/centralwidget/formats/codecs/basicmpegcodec.cpp" line="29"/>
